@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DiceRoller</string>
+    <string name="random_number">un numero aleatorio</string>
+    <string name="calcula">Calcula</string>
+    <string name="conversor_d_unitats">Conversor d\'unitats</string>
+    <string name="itb_gamble">ITB Gamble</string>
+    <string name="let_s_roll">Let\'s Roll!</string>
+    <string name="reestart">Reestart</string>
+</resources>
